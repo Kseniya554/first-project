@@ -21,10 +21,7 @@
     position: relative;
     width: 100vw;
     height: 100vh;
-    margin-bottom: 100px;
-    display: flex;
-    flex-wrap: wrap;
-    align-self: center;  
+    margin-bottom: 100px;    
 }
 
 .logo {
@@ -47,7 +44,7 @@
     font-size: 102px;
     z-index: 3;
     position: absolute;
-
+    align-items: center;
    
 }
 
