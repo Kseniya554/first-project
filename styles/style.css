@@ -122,9 +122,7 @@
     line-height: 34px;
     font-weight: 600;
     width: 80%;
-    min-width: 784px;
-    align-items: stretch;
-    flex-wrap: wrap;
+    min-width: 784px;    
 }
 
 .two-columns__paragraph {
